@@ -104,7 +104,7 @@ Material:
     - _Shininess: 1
     - _Smoothness: 1
     - _Specular: 0.1
-    - _SpecularArea: 0.1
+    - _SpecularArea: 0
     - _SpecularIntensity: 0.75
     - _SrcBlend: 1
     - _Stencil: 0
